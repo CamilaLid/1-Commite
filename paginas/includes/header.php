@@ -77,7 +77,7 @@
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="index.php?pg=contato">
-                        <span class="Mila-phone"></span> Contato
+                        <span class="Mila-phone"></span> Novo Contato
                     </a>
                 </li>
             </ul>
