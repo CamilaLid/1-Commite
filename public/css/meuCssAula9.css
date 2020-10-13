@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "ice cream";
+    src: url(../public/fonts/Ice\ Cream\ Cake.otf);
+}
+
+@font-face {
+    font-family: "oblique";
+    src: url(../public/fonts/GeosansLight-Oblique.ttf);
+}
+
+.noBackground {
+    background-color: transparent;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.post {
+    margin-bottom: 15px;
+}
+
+.posts {
+    height: 400px;
+    overflow: auto;
+}
+
+div {
+    font-family: "oblique";
+    font-weight: bolder;
+}
