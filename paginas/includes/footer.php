@@ -1,4 +1,4 @@
-<footer class="container alert-info">
+<footer class="container">
         <div class="container">
             <div class="row">
                 <div class="col text-center py-3">
@@ -38,5 +38,3 @@
     <script src="public/js/MeuScript.js"></script>
 
 </body>
-
-</html>

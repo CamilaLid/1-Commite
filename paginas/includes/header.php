@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="public/fonts/icomoon/icomoon.css">
 
     <!-- Meu css -->
-    <link rel="stylesheet" href="public/meuCssAula9.css">
+    <link rel="stylesheet" href="public/css/meucss.css">
 
 
     <title>Inicial</title>
@@ -77,7 +77,7 @@
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="index.php?pg=contato">
-                        <span class="Mila-phone"></span> Novo Contato
+                        <span class="Mila-phone"></span> Contato
                     </a>
                 </li>
             </ul>
@@ -89,24 +89,24 @@
 
             <ul class="navbar-nav text-lg-right">
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="index.php?pg=inicial" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         <button class="btn btn-danger">
                             <span class="Mila-profile-female"></span>
                         </button>
                     </a>
 
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">
+                        <a class="dropdown-item" href="index.php?pg=cadastro">
                             <span class="Mila-cogs"></span> Meu Perfil
                         </a>
-                        <a class="dropdown-item" href="#">
+                        <a class="dropdown-item" href="index.php?pg=cadastro">
                             <span class="Mila-lock2"></span> Mudar Senha
                         </a>
-                        <a class="dropdown-item" href="#">
+                        <a class="dropdown-item" href="index.php?pg=carrinho">
                             <span class="Mila-truck1"></span> Meus Pedidos
                         </a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">
+                        <a class="dropdown-item" href="index.php?pg=inicial">
                             <span class="Mila-redo2"></span> Sair
                         </a>
 

@@ -27,3 +27,7 @@ div {
     font-family: "oblique";
     font-weight: bolder;
 }
+
+body {
+    background-image: url(../img/oriental.png);
+}

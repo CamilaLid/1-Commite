@@ -60,7 +60,7 @@
         <a>
             <button type="button" class="btn btn-warning btn-lg btn-block">PAGAMENTO COM CÓDIGO DE BARRAS</button>
         </a>
-        <a href="indexAula9.html">
+        <a href="index.php?pg=inicial">
             <button type="button" class="btn btn-primary btn-lg btn-block">RETORNAR</button>
         </a>
     </div>
